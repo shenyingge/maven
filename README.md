@@ -92,7 +92,6 @@ dependencyManagement
 
 三种方法
 
-- 父工程maven-parent(root) tomcat7-run
-
+* 父工程maven-parent(root) tomcat7-run
 * 父工程maven-parent(root) install ，再maven_web tomcat7-run
 * 手动添加tomcat
